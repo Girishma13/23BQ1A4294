@@ -45,7 +45,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        String url = "http://4.2.24.186.213/evaluation-service/notifications";
+        String url = "http://4.24.186.213/evaluation-service/notifications";
         int limit = 10;
 
         System.out.println("Fetching updates from: " + url);
