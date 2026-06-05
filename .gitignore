@@ -1,1 +1,29 @@
 
+# Node dependencies (Crucial for React track)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Production builds
+dist/
+build/
+
+# Java compilation binaries and artifacts
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+build/
+
+# Development Environment IDE configs
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.env
+.env.local
